@@ -44,6 +44,9 @@ export default props =>{
                 />
                 <ListItem.Content>
                     <ListItem.Title>{user.name}</ListItem.Title>
+                    <ListItem.Title>{user.endereco}</ListItem.Title>
+                    <ListItem.Title>{user.contato}</ListItem.Title>
+                    <ListItem.Title>{user.categoria}</ListItem.Title>
                     <ListItem.Title>{user.email}</ListItem.Title>
                 </ListItem.Content>
                 <ListItem.Chevron

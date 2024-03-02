@@ -14,6 +14,28 @@ export default ({route, navigation}) =>{
                 placeholder="Informe o nome"
                 value={user.name}
             />
+            <Text>Endereço</Text>
+            <TextInput 
+            style={style.input}
+                onChangeText={endereco => setUser({...user, endereco})}
+                placeholder="Informe o Endereço"
+                value={user.endereco}
+            />
+            <Text>Contato</Text>
+            <TextInput 
+            style={style.input}
+                onChangeText={contato => setUser({...user, contato})}
+                placeholder="Informe o Telefone"
+                value={user.contato}
+            />
+            <Text>Categoria de produtos fornecedor</Text>
+            <TextInput 
+            style={style.input}
+                onChangeText={categoria => setUser({...user, categoria})}
+                placeholder="Informe o categoria do Produto"
+                value={user.categoria}
+            />
+            
             
             <Text>Email</Text>
             <TextInput 
@@ -26,7 +48,7 @@ export default ({route, navigation}) =>{
             <TextInput 
             style={style.input}
                 onChangeText={avatar => setUser({...user, avatar})}
-                placeholder="Informe o URL DO avatar"
+                placeholder="Informe o URL do avatar"
                 value={user.avatar}
             />
             <Button
