@@ -20,5 +20,6 @@ Este resultado das imagens Missão Prática | Nível 1 | Mundo 4,
 ![Logo](https://i.postimg.cc/HLnbwrRc/01-png.png)
 ![Logo](https://i.postimg.cc/MGLVdWJs/02.png)
 ![Logo](https://i.postimg.cc/YqBN5qGZ/03.png)
+![Logo](https://i.postimg.cc/G2sYfZcb/05.png)
 
 
