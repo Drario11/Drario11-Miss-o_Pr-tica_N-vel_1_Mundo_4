@@ -10,3 +10,15 @@ edição. 1a Documentação dependências.
 
 
 * https://drive.google.com/file/d/1wP0vG6nrHGGdhQlSNCgwu1tY-NU81CBA/view
+
+# Resultado 
+
+Este resultado das imagens Missão Prática | Nível 1 | Mundo 4,
+  
+
+
+![Logo](https://i.postimg.cc/HLnbwrRc/01-png.png)
+![Logo](https://i.postimg.cc/MGLVdWJs/02.png)
+![Logo](https://i.postimg.cc/YqBN5qGZ/03.png)
+
+
